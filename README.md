@@ -17,7 +17,7 @@ This project is an Instagram clone website created using HTML and CSS. It aims t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-clone.git
+  https://github.com/ByteShlok/Instagram-Clone.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -30,15 +30,4 @@ This project is an Instagram clone website created using HTML and CSS. It aims t
 - Browse through the home feed to see posts from various users.
 - Visit user profiles to see their posts and information.
 - Use the navigation bar to move between the homepage, explore page, and your profile.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-Feel free to customize this description according to the specific features and details of your project.
+  
