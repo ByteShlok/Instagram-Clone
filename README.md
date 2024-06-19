@@ -1,8 +1,3 @@
-# Instagram-Clone
-Sure, I'd be happy to help you write a medium-length description for your Instagram clone project's README file. Here it is:
-
----
-
 # Instagram Clone
 
 This project is an Instagram clone website created using HTML and CSS. It aims to replicate the basic user interface and functionality of Instagram, providing a familiar social media experience.
@@ -11,8 +6,6 @@ This project is an Instagram clone website created using HTML and CSS. It aims t
 
 - **Homepage:** Displays a feed of posts, similar to Instagram's main feed.
 - **User Profile:** Each user has a profile page showcasing their posts, profile picture, and bio.
-- **Post Creation:** Users can create new posts with images and captions.
-- **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
 - **Navigation:** Includes a navigation bar with links to the home feed, explore page, and user profile.
 
 ## Technologies Used
