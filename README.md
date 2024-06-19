@@ -16,13 +16,13 @@ This project is an Instagram clone website created using HTML and CSS. It aims t
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   
   https://github.com/ByteShlok/Instagram-Clone.git
-   ```
+   
 2. Navigate to the project directory:
-   ```bash
+   
    cd instagram-clone
-   ```
+   
 3. Open `index.html` in your browser to view the website.
 
 ## Usage
