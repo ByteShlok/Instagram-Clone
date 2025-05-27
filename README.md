@@ -31,3 +31,6 @@ This project is an Instagram clone website created using HTML and CSS. It aims t
 - Visit user profiles to see their posts and information.
 - Use the navigation bar to move between the homepage, explore page, and your profile.
   
+
+##Preview of Website
+https://byteshlok.github.io/Instagram-Clone/
